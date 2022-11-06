@@ -1,4 +1,4 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
 
@@ -26,4 +26,6 @@ N/A
 ## License
 
  If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+=======
+[https://choosealicense.com/](https://choosealicense.com/).
 
