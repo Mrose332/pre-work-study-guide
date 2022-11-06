@@ -25,5 +25,7 @@ N/A
 
 ## License
 
+ If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+=======
 [https://choosealicense.com/](https://choosealicense.com/).
 
